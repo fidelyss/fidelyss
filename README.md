@@ -65,9 +65,9 @@
 <details>
   <summary>📌 Melhores Projetos</summary>
 
-- Projeto 1: <a href="https://github.com/fidelyss/Resumidor-de-Shorts-do-Youtube">Resumidor de shorts do youtube</a>
-- Projeto 2: App de tarefas com React
-- Projeto 3: Dashboard com Node.js e MongoDB
-- Projeto 4: Landing Page com TailwindCSS
+- <a href="https://github.com/fidelyss/Resumidor-de-Shorts-do-Youtube">Resumidor de shorts do youtube</a>
+- <a href="https://github.com/fidelyss/Control-of-daily-goals">Controle de Metas</a>
+- <a href="https://github.com/fidelyss/Midia-Social-App">Aplicativo de midia social</a>
+- <a href="https://github.com/fidelyss/ArenaDeBatalha">Arena De Batalha</a>
 </details>
 
