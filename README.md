@@ -63,7 +63,7 @@
 ###
 
 <details>
-  <summary>📌 Melhores Projetos</summary>
+  <summary>⭐️ Melhores Projetos</summary>
 
 - <a href="https://github.com/fidelyss/Resumidor-de-Shorts-do-Youtube">Resumidor de shorts do youtube</a>
 - <a href="https://github.com/fidelyss/Control-of-daily-goals">Controle de Metas</a>
