@@ -60,3 +60,14 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fidelyss/fidelyss/output/github-contribution-grid-snake.svg">
 </picture>
 
+###
+
+<details>
+  <summary>📌 Melhores Projetos</summary>
+
+- Projeto 1: <a href="https://github.com/fidelyss/Resumidor-de-Shorts-do-Youtube">Resumidor de shorts do youtube</a>
+- Projeto 2: App de tarefas com React
+- Projeto 3: Dashboard com Node.js e MongoDB
+- Projeto 4: Landing Page com TailwindCSS
+</details>
+
