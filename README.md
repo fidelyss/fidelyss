@@ -51,3 +51,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fidelyss&theme=dracula" height="150" alt="trophy graph"  />
 </div>
+
+###
+
+  <img src="  <img src="https://github-profile-trophy.vercel.app/?username=fidelyss&theme=dracula" height="150" alt="trophy graph"  />" alt="trophy graph"  />
