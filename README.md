@@ -19,7 +19,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/sass/CC6699" height="60" alt="sass logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=threejs" height="60" alt="threejs logo"  />
   <img width="12" />
