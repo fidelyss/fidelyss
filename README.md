@@ -37,7 +37,7 @@
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fidelyss&theme=onedark)](https://github.com/fidelyss/github-profile-trophy)
+(https://github-profile-trophy.vercel.app/?username=fidelyss&theme=onedark)](https://github.com/fidelyss/github-profile-trophy)
 
 ###
 <div align="center">
