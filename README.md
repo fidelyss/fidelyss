@@ -47,12 +47,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app"  />
-</div>
-
-###
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fidelyss/fidelyss/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fidelyss/fidelyss/output/github-contribution-grid-snake-dark.svg">
