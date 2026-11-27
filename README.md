@@ -48,7 +48,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fidelyss&theme=dracula" height="150" alt="trophy graph"  />
+  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)"  />
 </div>
 
 ###
