@@ -37,9 +37,6 @@
 
 ###
 
-(https://github-profile-trophy.vercel.app/?username=fidelyss&theme=onedark)](https://github.com/fidelyss/github-profile-trophy)
-
-###
 <div align="center">
  <a href="https://www.linkedin.com/in/alisson-fidelis-426a58236/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
